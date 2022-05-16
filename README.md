@@ -35,6 +35,8 @@
 </div>
 <br/>
 
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=gruvbox_light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=CadastroDeProdutos&theme=gruvbox_light)](https://github.com/samuel-oldra/CadastroDeProdutos)
+--->
