@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ##
 <div>
     <a href="https://github.com/samuel-oldra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=gruvbox_light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide_title=false&hide=html,css,blade,tex&locale=pt-BR"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=gruvbox_light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade,tex&locale=pt-BR"/>
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=gruvbox_light&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&locale=pt-BR"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=gruvbox_light&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
 </div>
 <br/>
 <div style="display: inline_block">
