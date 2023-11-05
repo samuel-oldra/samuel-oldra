@@ -37,4 +37,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=gruvbox_light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=PyStack-Week-3.0&theme=gruvbox_light)](https://github.com/samuel-oldra/PyStack-Week-3.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-Nextjs-React&theme=gruvbox_light)](https://github.com/samuel-oldra/Projeto-Nextjs-React)
