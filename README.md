@@ -1,4 +1,4 @@
-### Olá! Eu sou o Samuel 🖖🏼
+### Olá! Eu sou o Samuel 🧉
 ### *Hi! I'm Samuel*
 
 ##
@@ -6,7 +6,7 @@
     <a href="https://github.com/samuel-oldra">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=8&hide=html,tex,css,blade&exclude_repo=Pousada-Katedral"/>
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&include_all_commits=false&count_private=true&custom_title=Estatísticas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas"/>
 </div>
 <br/>
 <div style="display: inline_block">
