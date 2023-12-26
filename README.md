@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Samuel 🧉
 #### *Hi! I'm Samuel*
-##### *"Palavras ríspidas e argumentos pobres nunca resolveram nada."* -- Provérbio Chinês
+###### *"Palavras ríspidas e argumentos pobres nunca resolveram nada."* -- Provérbio Chinês
 
 #
 <div>
-  <a href="https://github.com/samuel-oldra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estatísticas"/>
