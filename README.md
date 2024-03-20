@@ -8,7 +8,7 @@
   <a href="https://github.com/samuel-oldra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=Pousada-Katedral&hide=html,css,blade,tex"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&include_all_commits=true&rank_icon=github&count_private=false&custom_title=Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&rank_icon=github&custom_title=Estatísticas"/>
 </div>
 <br/>
 <div style="display: inline_block">
