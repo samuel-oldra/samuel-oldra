@@ -4,7 +4,7 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=6&size_weight=0.46&count_weight=0.54&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estatísticas"/>
 </div>
@@ -32,6 +32,8 @@
   &nbsp;
   <a href = "mailto:samuel.oldra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<br/>
 
+<!--
+<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Agenda.API&theme=gruvbox_light&show_owner=true)](https://github.com/samuel-oldra/Agenda.API)
+-->
