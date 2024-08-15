@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá! Eu sou o Samuel, programador e pesquisador 😎
-### *Hi! I'm Samuel, programmer and researcher*
+### Olá! Eu sou o Samuel 😎
+### *Hi! I'm Samuel*
 
 ##
 <div>
     <a href="https://github.com/samuel-oldra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade,tex"/>
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true"/>
 </div>
 <br/>
 <div style="display: inline_block">
