@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá! Eu sou o Samuel B. Oldra.
 
-### Olá! Eu sou o Samuel B. Oldra 👋
-<br/>
+##
+
 <div>
     <a href="https://github.com/samuel-oldra">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=10"/>
@@ -36,4 +37,12 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+</div>
+
+##
+
+<div>
+    <a href="https://linkedin.com/in/samuel-oldra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    &nbsp;
+    <a href = "mailto:samuel.oldra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
