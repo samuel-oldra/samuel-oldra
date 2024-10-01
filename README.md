@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá! Eu sou o Samuel B. Oldra.
+### Olá! Eu sou o Samuel B. Oldra 🚀
 
 ##
-
 <div>
     <a href="https://github.com/samuel-oldra">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=10&exclude_repo=Pousada-Katedral"/>
@@ -40,9 +39,12 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
 <div>
     <a href="https://linkedin.com/in/samuel-oldra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     &nbsp;
     <a href = "mailto:samuel.oldra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-API-C-Sharp&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-API-C-Sharp)
