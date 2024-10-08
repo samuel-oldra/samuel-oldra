@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
-&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-API-C-Sharp&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-API-C-Sharp)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
