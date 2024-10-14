@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá! Eu sou o Samuel B. Oldra 😎
-### *Hi! I'm Samuel B. Oldra*
+### Olá! Eu sou o Samuel, programador e pesquisador 😎
+### *Hi! I'm Samuel, programmer and researcher*
 
 ##
 <div>
