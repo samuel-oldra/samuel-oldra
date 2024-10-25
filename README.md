@@ -34,4 +34,4 @@
 </div>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Agenda.API)](https://github.com/samuel-oldra/Agenda.API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Agenda.API&theme=gruvbox_light&show_owner=true)](https://github.com/samuel-oldra/Agenda.API)
