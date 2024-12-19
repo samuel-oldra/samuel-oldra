@@ -1,7 +1,6 @@
-<h3>Olá! Eu sou o Samuel 🧉</h3>
-<h4><i>Hi! I'm Samuel</i></h4>
-
-<h6><i>"Palavras ríspidas e argumentos pobres nunca resolveram nada."</i> -- Provérbio Chinês</h6>
+### Olá! Eu sou o Samuel 🧉
+#### *Hi! I'm Samuel*
+##### *"Palavras ríspidas e argumentos pobres nunca resolveram nada."* -- Provérbio Chinês
 
 #
 <div>
