@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##
 <div>
     <a href="https://github.com/samuel-oldra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=7&exclude_repo=Pousada-Katedral&hide=html,css,blade"/>
     &nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-API-C-Sharp&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-API-C-Sharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-WebApi-DotNet-5&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-WebApi-DotNet-5)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
