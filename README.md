@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##
 <div>
     <a href="https://github.com/samuel-oldra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=7&exclude_repo=Pousada-Katedral&hide=html,css,blade"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade"/>
     &nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
