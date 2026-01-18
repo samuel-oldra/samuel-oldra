@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-Blazor&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-Blazor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=BioNet&theme=solarized-light)](https://github.com/samuel-oldra/BioNet)
