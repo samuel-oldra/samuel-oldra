@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá! Eu sou o Samuel B. Oldra 🚀
+### Olá! Eu sou o Samuel B. Oldra 😎
+### *Hi! I'm Samuel B. Oldra*
 
 ##
 <div>
@@ -53,4 +54,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=BioNet&theme=solarized-light)](https://github.com/samuel-oldra/BioNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-WebApi-DotNet-6&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-WebApi-DotNet-6)
