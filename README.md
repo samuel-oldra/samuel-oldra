@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ##
 <div>
     <a href="https://github.com/samuel-oldra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade,tex"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&theme=gruvbox_light&layout=compact&langs_count=8&exclude_repo=Pousada-Katedral&hide=html,css,blade,tex"/>
     &nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&theme=gruvbox_light&show_icons=true&count_private=true&include_all_commits=true"/>
 </div>
 <br/>
 <div style="display: inline_block">
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=solarized-light)](https://github.com/samuel-oldra/Design-Patterns)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=gruvbox_light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-WebApi-DotNet-6&theme=solarized-light)](https://github.com/samuel-oldra/Projeto-WebApi-DotNet-6)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-WebApi-DotNet-6&theme=gruvbox_light)](https://github.com/samuel-oldra/Projeto-WebApi-DotNet-6)
