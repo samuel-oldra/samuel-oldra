@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Design-Patterns&theme=gruvbox_light)](https://github.com/samuel-oldra/Design-Patterns)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-Blazor&theme=gruvbox_light)](https://github.com/samuel-oldra/Projeto-Blazor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=Projeto-Nextjs-React&theme=gruvbox_light)](https://github.com/samuel-oldra/Projeto-Nextjs-React)
