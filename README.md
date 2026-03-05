@@ -36,6 +36,8 @@
 </div>
 <br/>
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=MyTeacher-React&theme=gruvbox_light)](https://github.com/samuel-oldra/MyTeacher-React)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=MyTeacher-Django&theme=gruvbox_light)](https://github.com/samuel-oldra/MyTeacher-Django)
+-->
