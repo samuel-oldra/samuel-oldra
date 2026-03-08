@@ -36,9 +36,8 @@
 </div>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=ADO.TE&theme=gruvbox_light)](https://github.com/samuel-oldra/ADO.TE)
-
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=ADO.TE&theme=gruvbox_light)](https://github.com/samuel-oldra/ADO.TE)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=MyTeacher-Django&theme=gruvbox_light)](https://github.com/samuel-oldra/MyTeacher-Django)
 -->
