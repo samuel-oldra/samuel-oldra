@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Samuel 🧉
-#### *Hi! I'm Samuel* 📐
+#### *Hi! I'm Samuel*
 
 ###### *"Palavras ríspidas e argumentos pobres nunca resolveram nada."* -- Provérbio Chinês
 
@@ -37,9 +37,3 @@
   <a href = "mailto:samuel.oldra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br/>
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=ADO.TE&theme=gruvbox_light)](https://github.com/samuel-oldra/ADO.TE)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuel-oldra&repo=MyTeacher-Django&theme=gruvbox_light)](https://github.com/samuel-oldra/MyTeacher-Django)
--->
