@@ -3,9 +3,9 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&layout=compact&langs_count=6&size_weight=0.46&count_weight=0.54&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&layout=compact&locale=pt-BR&theme=gruvbox_light&exclude_repo=PousadaKatedral&hide=blade,css,html,tex&size_weight=0.6&count_weight=0.4"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estat%C3%ADsticas"/>
 </div>
 <br/>
 <div style="display: inline_block">
