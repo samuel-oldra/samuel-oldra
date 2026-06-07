@@ -3,9 +3,9 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oldra&layout=compact&locale=pt-BR&theme=radical&exclude_repo=PousadaKatedral&hide=blade,css,html,tex&size_weight=0.6&count_weight=0.4"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estat%C3%ADsticas"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact"/>
 </div>
 <br/>
 <div style="display: inline_block">
