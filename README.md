@@ -3,9 +3,9 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true"/>
-  &nbsp;
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oldra&theme=solarized-light&layout=compact"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oldra&theme=solarized-light&show_icons=true&include_all_commits=true"/>
 </div>
 <br/>
 <div style="display: inline_block">
