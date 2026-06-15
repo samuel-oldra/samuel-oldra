@@ -3,9 +3,13 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&layout=compact&locale=pt-BR&theme=gruvbox_light&exclude_repo=PousadaKatedral&hide=blade,css,html,tex&size_weight=0.6&count_weight=0.4"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-oldra&layout=compact&locale=pt-BR&theme=gruvbox_light&exclude_repo=PousadaKatedral&hide=blade,css,html,tex&size_weight=0.6&count_weight=0.4">
+    <img height="180em" src="https://raw.githubusercontent.com/samuel-oldra/samuel-oldra/refs/heads/main/IMGS/LinguagensMaisUsadas.svg"/>
+  </a>  
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estat%C3%ADsticas"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=samuel-oldra&locale=pt-BR&theme=gruvbox_light&show_icons=true&custom_title=Estat%C3%ADsticas">
+    <img height="180em" src="https://raw.githubusercontent.com/samuel-oldra/samuel-oldra/refs/heads/main/IMGS/Estatisticas.svg"/>
+  </a>  
 </div>
 <br/>
 <div style="display: inline_block">
