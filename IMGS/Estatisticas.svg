@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas, Rank: B</title>
-        <desc id="descId">Total de estrelas: 588, Total de Commits  (Ano passado) : 564, Total de PRs: 11, Total de Issues: 70, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 588, Total de Commits  (Ano passado) : 565, Total de PRs: 11, Total de Issues: 70, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
